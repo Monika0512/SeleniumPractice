@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="src" output="target/classes" path="Main">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Test"/>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/POI/poi-4.1.0/poi-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/POI/poi-4.1.0/poi-examples-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/POI/poi-4.1.0/poi-excelant-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/POI/poi-4.1.0/poi-ooxml-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/POI/poi-4.1.0/poi-ooxml-schemas-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/POI/poi-4.1.0/poi-scratchpad-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/POI/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/POI/commons-collections4-4.4/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/POI/commons-collections4-4.4/commons-collections4-4.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/POI/commons-collections4-4.4/commons-collections4-4.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/POI/commons-collections4-4.4/commons-collections4-4.4-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/POI/commons-collections4-4.4/commons-collections4-4.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/POI/commons-compress-1.19/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/POI/commons-compress-1.19/commons-compress-1.19-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/POI/commons-compress-1.19/commons-compress-1.19-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/POI/commons-compress-1.19/commons-compress-1.19-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/POI/commons-compress-1.19/commons-compress-1.19-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/POI/extentreports-java-2.41.2/extentreports-2.41.2.jar" sourcepath=""/>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/TeachAway/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/POI/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/commons-email-1.5/commons-email-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/commons-email-1.5/commons-email-1.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/commons-email-1.5/commons-email-1.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/commons-email-1.5/commons-email-1.5-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/commons-email-1.5/commons-email-1.5-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/POI/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sachinsehgal2/Downloads/POI/javax.mail-1.6.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
